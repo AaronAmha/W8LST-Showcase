@@ -1,8 +1,12 @@
 # 🎱 W8LST — The Real-Time Pool Table Queue App
 
+[![Download on TestFlight](https://img.shields.io/badge/iOS-TestFlight-blue?logo=apple)](https://testflight.apple.com/join/XwscEuc6)
+[![Get it on Google Play](https://img.shields.io/badge/Android-Google%20Play-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.w8lst.app)
+
 **W8LST** is a cross-platform Flutter app that transforms how players line up for pool tables at bars, lounges, and pool halls.  
 Partnered businesses host live queues, and players can join, match up, and track their stats — all in real time.
 
+> **Status:** Live on iOS (TestFlight) and Android (Google Play) | 100+ Active Users | 5+ Partnered Venues in Boulder, CO
 ---
 
 ## 🚀 Overview
