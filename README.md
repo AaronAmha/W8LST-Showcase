@@ -58,9 +58,9 @@ W8LST digitizes the experience with:
 
 | Layer | Technology |
 |-------|-------------|
-| Frontend | Flutter 3.22+ (Material 3, Riverpod) |
+| Frontend | Flutter 3.22+ |
 | Backend | Firebase (Realtime DB, Firestore, Auth, Storage, FCM) |
-| State Mgmt | Riverpod / Provider |
+| State Mgmt | Provider |
 | Payments | Stripe (In-App Purchases, Apple Pay, Google Pay) |
 | Notifications | Firebase Cloud Messaging + Local Notifications |
 | Maps | Google Maps SDK for Flutter |
