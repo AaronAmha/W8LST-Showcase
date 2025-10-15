@@ -26,10 +26,7 @@ W8LST digitizes the experience with:
 | Home / Map | Queue View | Match Popup | Profile |
 |-------------|-------------|--------------|-----------|
 | *(screenshot placeholder)* | *(screenshot placeholder)* | *(screenshot placeholder)* | *(screenshot placeholder)* |
-
-> Replace with your own screenshots or screen recordings (1080x2400 recommended).
-
----
+<img width="1284" height="2778" alt="IMG_1132" src="https://github.com/user-attachments/assets/96cac3eb-b4f7-46e6-be64-62c5d6743e0d" />
 
 ## 🧩 Core Features
 
