@@ -74,3 +74,144 @@ W8LST digitizes the experience with:
 
 ## 🏗️ Architecture
 
+## 🚀 Getting Started (For Developers)
+
+While the full source code is proprietary, here's how the app is structured:
+
+### Project Structure
+```
+W8LST/
+├── lib/
+│   ├── main.dart                          # App entry point
+│   ├── home.dart                          # Main home screen
+│   │
+│   ├── auth/                              # Authentication
+│   │   ├── auth_export.dart
+│   │   ├── auth_support.dart
+│   │   ├── auth_view_model.dart
+│   │   ├── login_view.dart
+│   │   ├── forgot_password_view.dart
+│   │   └── homescreen_view.dart
+│   │
+│   ├── business/                          # Business/Venue Management
+│   │   ├── business_admin_view.dart
+│   │   ├── business_admin_wrapper.dart
+│   │   ├── business_view_model.dart
+│   │   ├── business_admin/                # Admin-specific features
+│   │   │   ├── business_stats.dart
+│   │   │   └── business_details_view.dart
+│   │   └── business_specialty_qr_creator.dart
+│   │
+│   ├── queue/                             # Real-Time Queue System
+│   │   ├── queue_page.dart
+│   │   ├── queue_control_view.dart
+│   │   ├── queue_debug_tool.dart
+│   │   ├── queue_header_view.dart
+│   │   ├── queue_manager.dart
+│   │   └── queue_user.dart
+│   │
+│   ├── match/                             # Match Management & Logic
+│   │   ├── match_export.dart
+│   │   ├── match_accept.dart
+│   │   ├── match_manager_service.dart
+│   │   ├── match_manager_popup.dart
+│   │   ├── match_manager_service_new.dart
+│   │   └── match_manager_popup_new.dart
+│   │
+│   ├── profile/                           # User Profiles & Stats
+│   │   ├── profile_export.dart
+│   │   ├── profile_view_model.dart
+│   │   ├── circular_profile_image.dart
+│   │   ├── image_picker_widget.dart
+│   │   ├── settings_row_view.dart
+│   │   └── manage_subscription_page.dart
+│   │
+│   ├── friend/                            # Social/Friends System
+│   │   ├── friend_manager.dart
+│   │   ├── friend_messages_manager.dart
+│   │   ├── friend_messages_view.dart
+│   │   └── friend_notification_indicator.dart
+│   │
+│   ├── notifications/                     # Push Notifications (FCM)
+│   │   ├── navigation_service.dart
+│   │   ├── direct_notification_services.dart
+│   │   ├── notification_manager_view.dart
+│   │   └── notification_support.dart
+│   │
+│   ├── chat/                              # In-App Messaging
+│   │   ├── chat_dart.dart
+│   │   ├── admin_profile_indicator.dart
+│   │   └── match_accept.dart
+│   │
+│   ├── shop/                              # Shop & Payments
+│   │   ├── shop_analytics.dart
+│   │   ├── shop_screens.dart
+│   │   ├── shop_admins_panel.dart
+│   │   ├── subscription_bar.dart
+│   │   └── payment_service.dart
+│   │
+│   ├── nav/                               # Navigation
+│   │   ├── directions_model.dart
+│   │   ├── directions_repository.dart
+│   │   ├── location_details_view.dart
+│   │   ├── user_location_model.dart
+│   │   └── check_notification_services.dart
+│   │
+│   ├── social/                            # Social Feed
+│   │   ├── social_home.dart
+│   │   ├── social_models.dart
+│   │   ├── user_profile_page.dart
+│   │   └── date_profile_page.dart
+│   │
+│   ├── statistics/                        # Stats & Leaderboards
+│   │   ├── stat_manager.dart
+│   │   ├── statistics_home.dart
+│   │   ├── stats_support.dart
+│   │   ├── leader_board.dart
+│   │   └── language_page.dart
+│   │
+│   ├── settings/                          # App Settings
+│   │   ├── settings_page.dart
+│   │   ├── settings.dart
+│   │   └── settings_row_view.dart
+│   │
+│   └── widgets/                           # Reusable UI Components
+│       ├── bar_scaffold_bar.dart
+│       ├── link_social_media_page.dart
+│       └── tutorial_box.dart
+│
+├── ios/                                   # iOS Native Code
+├── android/                               # Android Native Code
+└── linux/                                 # Linux Support
+```
+**Developer:**
+- 👤 **Aaron Amha**
+- 📧 [aaronamha0418@gmail.com](mailto:aaronamha0418@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaron-amha/)
+- 🐙 [GitHub](https://github.com/AaronAmha)
+
+---
+
+## 📝 About This Repository
+
+This is a **showcase repository** demonstrating the technical architecture, features, and capabilities of W8LST. The full source code is proprietary and not publicly available.
+
+**For hiring managers and recruiters:**  
+Full source code, additional technical documentation, and code deep-dives are available upon request for serious employment inquiries.
+
+---
+
+## 📄 License
+
+Showcase materials © 2024-2025 Aaron Amha. All rights reserved.  
+W8LST™ is a trademark of Aaron Amha.
+
+---
+
+<div align="center">
+
+**Built with ❤️ in Boulder, Colorado**
+
+*Transforming the pool hall experience, one queue at a time* 🎱
+
+</div>
