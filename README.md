@@ -25,8 +25,8 @@ W8LST digitizes the experience with:
 
 | Home / Map | Queue View | Match Popup | Profile |
 |-------------|-------------|--------------|-----------|
-| <img width="100" height="200" alt="IMG_1132" src="https://github.com/user-attachments/assets/96cac3eb-b4f7-46e6-be64-62c5d6743e0d" /> |<img width="100" height="200" alt="IMG_1133" src="https://github.com/user-attachments/assets/6345e1a1-fd0c-4570-bb83-ea20002d68f2" /> |<img width="100" height="200" alt="IMG_1134" src="https://github.com/user-attachments/assets/0e579642-b49f-491f-a0b0-76aa4170b724" /> |
-<img width="200" height="400" alt="IMG_1135" src="https://github.com/user-attachments/assets/5091f965-d078-4f05-b24e-7d653574f772" /> |
+| <img width="150" height="300" alt="IMG_1132" src="https://github.com/user-attachments/assets/96cac3eb-b4f7-46e6-be64-62c5d6743e0d" /> |<img width="150" height="300" alt="IMG_1133" src="https://github.com/user-attachments/assets/6345e1a1-fd0c-4570-bb83-ea20002d68f2" /> |<img width="150" height="300" alt="IMG_1134" src="https://github.com/user-attachments/assets/0e579642-b49f-491f-a0b0-76aa4170b724" /> |
+<img width="150" height="300" alt="IMG_1135" src="https://github.com/user-attachments/assets/5091f965-d078-4f05-b24e-7d653574f772" /> |
 
 
 
